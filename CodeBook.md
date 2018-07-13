@@ -4,8 +4,8 @@ This codebook outlines the various variables that are present in the tidydata.tx
 
 ## Identifiers and Descriptions
 
-subject_Id 		: the subject id to differntiate between subjects
-activity_type 	: the type of activity being performed
+subject_Id     		: the subject id to differntiate between subjects
+activity_type 	  : the type of activity being performed
 
 ## Variables and descriptions
 
