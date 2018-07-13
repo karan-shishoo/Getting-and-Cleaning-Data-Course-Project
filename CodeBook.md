@@ -10,7 +10,7 @@ activity_type 	: the type of activity being performed
 
 ## Variables and descriptions
 
-####"TimeBodyAcceleration.Mean.X"    						: mean of the Time-Body-Acceleration in the X Direction
+#### TimeBodyAcceleration.Mean.X"    						: mean of the Time-Body-Acceleration in the X Direction
 
 "TimeBodyAcceleration.Mean.Y"							: mean of the Time-Body-Acceleration in the Y Direction
 
