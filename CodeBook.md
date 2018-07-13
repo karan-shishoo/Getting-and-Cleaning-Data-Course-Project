@@ -5,40 +5,71 @@ This codebook outlines the various variables that are present in the tidydata.tx
 ## Identifiers and Descriptions
 
 subject_Id 		: the subject id to differntiate between subjects
+
 activity_type 	: the type of activity being performed
 
 ## Variables and descriptions
 <p>
 "TimeBodyAcceleration.Mean.X"    						: mean of the Time-Body-Acceleration in the X Direction
+
 "TimeBodyAcceleration.Mean.Y"							: mean of the Time-Body-Acceleration in the Y Direction
+
 "TimeBodyAcceleration.Mean.Z"							: mean of the Time-Body-Acceleration in the Z Direction
-"TimeBodyAcceleration.Standard Deviation.X"         	: std of the Time-Body-Acceleration in the X Direction            
-"TimeBodyAcceleration.Standard Deviation.Y"   	      	: std of the Time-Body-Acceleration in the Y Direction            
-"TimeBodyAcceleration.Standard Deviation.Z"     	    : std of the Time-Body-Acceleration in the Z Direction             
-"TimeGravityAcceleration.Mean.X"                    	: mean of the Time-Gravity-Acceleration in the X Direction            
-"TimeGravityAcceleration.Mean.Y"                    	: mean of the Time-Gravity-Acceleration in the Y Direction            
+
+"TimeBodyAcceleration.Standard Deviation.X"         	: std of the Time-Body-Acceleration in the X Direction  
+
+"TimeBodyAcceleration.Standard Deviation.Y"   	      	: std of the Time-Body-Acceleration in the Y Direction 
+
+"TimeBodyAcceleration.Standard Deviation.Z"     	    : std of the Time-Body-Acceleration in the Z Direction  
+
+"TimeGravityAcceleration.Mean.X"                    	: mean of the Time-Gravity-Acceleration in the X Direction  
+
+"TimeGravityAcceleration.Mean.Y"                    	: mean of the Time-Gravity-Acceleration in the Y Direction  
+
 "TimeGravityAcceleration.Mean.Z"                    	: mean of the Time-Gravity-Acceleration in the Z Direction
-"TimeGravityAcceleration.Standard Deviation.X"      	: std of the Time-Gravity-Acceleration in the X Direction            
-"TimeGravityAcceleration.Standard Deviation.Y"      	: std of the Time-Gravity-Acceleration in the Y Direction                    
-"TimeGravityAcceleration.Standard Deviation.Z"     	 	: std of the Time-Gravity-Acceleration in the Z Direction                   
-"TimeBodyAccelerationJerk.Mean.X"                   	: mean of the Time-Body-Acceleration-Jerk in the X Direction                    
-"TimeBodyAccelerationJerk.Mean.Y"                   	: mean of the Time-Body-Acceleration-Jerk in the Y Direction             
-"TimeBodyAccelerationJerk.Mean.Z"                   	: mean of the Time-Body-Acceleration-Jerk in the Z Direction              
-"TimeBodyAccelerationJerk.Standard Deviation.X"     	: std of the Time-Body-Acceleration-Jerk in the X Direction              
-"TimeBodyAccelerationJerk.Standard Deviation.Y"     	: std of the Time-Body-Acceleration-Jerk in the Y Direction             
-"TimeBodyAccelerationJerk.Standard Deviation.Z"     	: std of the Time-Body-Acceleration-Jerk in the Z Direction              
-"TimeBodyGyro.Mean.X"                               	: mean of the Time-Body-Gyro in the X Direction             
-"TimeBodyGyro.Mean.Y"                               	: mean of the Time-Body-Gyro in the Y Direction            
-"TimeBodyGyro.Mean.Z"                               	: mean of the Time-Body-Gyro in the Z Direction            
-"TimeBodyGyro.Standard Deviation.X"                 	: std of the Time-Body-Gyro in the X Direction            
-"TimeBodyGyro.Standard Deviation.Y"                 	: std of the Time-Body-Gyro in the Y Direction            
-"TimeBodyGyro.Standard Deviation.Z"                 	: std of the Time-Body-Gyro in the Z Direction            
-"TimeBodyGyroJerk.Mean.X"                           	: mean of the Time-Body-Gyro-Jerk in the X Direction            
-"TimeBodyGyroJerk.Mean.Y"                           	: mean of the Time-Body-Gyro-Jerk in the Y Direction             
-"TimeBodyGyroJerk.Mean.Z"                           	: mean of the Time-Body-Gyro-Jerk in the Z Direction             
-"TimeBodyGyroJerk.Standard Deviation.X"             	: std of the Time-Body-Gyro-Jerk in the X Direction              
-"TimeBodyGyroJerk.Standard Deviation.Y"             	: std of the Time-Body-Gyro-Jerk in the Y Direction              
-"TimeBodyGyroJerk.Standard Deviation.Z"             	: std of the Time-Body-Gyro-Jerk in the Z Direction              
+
+"TimeGravityAcceleration.Standard Deviation.X"      	: std of the Time-Gravity-Acceleration in the X Direction  
+
+"TimeGravityAcceleration.Standard Deviation.Y"      	: std of the Time-Gravity-Acceleration in the Y Direction   
+
+"TimeGravityAcceleration.Standard Deviation.Z"     	 	: std of the Time-Gravity-Acceleration in the Z Direction  
+
+"TimeBodyAccelerationJerk.Mean.X"                   	: mean of the Time-Body-Acceleration-Jerk in the X Direction   
+
+"TimeBodyAccelerationJerk.Mean.Y"                   	: mean of the Time-Body-Acceleration-Jerk in the Y Direction  
+
+"TimeBodyAccelerationJerk.Mean.Z"                   	: mean of the Time-Body-Acceleration-Jerk in the Z Direction   
+
+"TimeBodyAccelerationJerk.Standard Deviation.X"     	: std of the Time-Body-Acceleration-Jerk in the X Direction    
+
+"TimeBodyAccelerationJerk.Standard Deviation.Y"     	: std of the Time-Body-Acceleration-Jerk in the Y Direction  
+
+"TimeBodyAccelerationJerk.Standard Deviation.Z"     	: std of the Time-Body-Acceleration-Jerk in the Z Direction  
+
+"TimeBodyGyro.Mean.X"                               	: mean of the Time-Body-Gyro in the X Direction       
+
+"TimeBodyGyro.Mean.Y"                               	: mean of the Time-Body-Gyro in the Y Direction    
+
+"TimeBodyGyro.Mean.Z"                               	: mean of the Time-Body-Gyro in the Z Direction    
+
+"TimeBodyGyro.Standard Deviation.X"                 	: std of the Time-Body-Gyro in the X Direction   
+
+"TimeBodyGyro.Standard Deviation.Y"                 	: std of the Time-Body-Gyro in the Y Direction     
+
+"TimeBodyGyro.Standard Deviation.Z"                 	: std of the Time-Body-Gyro in the Z Direction       
+
+"TimeBodyGyroJerk.Mean.X"                           	: mean of the Time-Body-Gyro-Jerk in the X Direction    
+
+"TimeBodyGyroJerk.Mean.Y"                           	: mean of the Time-Body-Gyro-Jerk in the Y Direction    
+
+"TimeBodyGyroJerk.Mean.Z"                           	: mean of the Time-Body-Gyro-Jerk in the Z Direction    
+
+"TimeBodyGyroJerk.Standard Deviation.X"             	: std of the Time-Body-Gyro-Jerk in the X Direction     
+
+"TimeBodyGyroJerk.Standard Deviation.Y"             	: std of the Time-Body-Gyro-Jerk in the Y Direction    
+          
+"TimeBodyGyroJerk.Standard Deviation.Z"             	: std of the Time-Body-Gyro-Jerk in the Z Direction     
+
 "TimeBodyAccelerationMagnitude.Mean"                            
 "TimeBodyAccelerationMagnitude.Standard Deviation"              
 "TimeGravityAccelerationMagnitude.Mean"                         
