@@ -12,4 +12,4 @@ activity_type 	: the type of activity being performed
 
 The data set has been cleaned such that only those variables that pertain to means or standard deviation remain.
 
-This has been done such that the minimum data needed to build a general idea of the distribution data remains cutting down on a lot of unnecessary data  
+This has been done so that the minimum data needed to build a general idea of the distribution data remains cutting down on a lot of unnecessary data  
