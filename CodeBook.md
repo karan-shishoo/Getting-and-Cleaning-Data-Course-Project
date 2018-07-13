@@ -9,8 +9,8 @@ subject_Id 		: the subject id to differntiate between subjects
 activity_type 	: the type of activity being performed
 
 ## Variables and descriptions
-<p>
-"TimeBodyAcceleration.Mean.X"    						: mean of the Time-Body-Acceleration in the X Direction
+
+####"TimeBodyAcceleration.Mean.X"    						: mean of the Time-Body-Acceleration in the X Direction
 
 "TimeBodyAcceleration.Mean.Y"							: mean of the Time-Body-Acceleration in the Y Direction
 
@@ -67,7 +67,7 @@ activity_type 	: the type of activity being performed
 "TimeBodyGyroJerk.Standard Deviation.X"             	: std of the Time-Body-Gyro-Jerk in the X Direction     
 
 "TimeBodyGyroJerk.Standard Deviation.Y"             	: std of the Time-Body-Gyro-Jerk in the Y Direction    
-          
+
 "TimeBodyGyroJerk.Standard Deviation.Z"             	: std of the Time-Body-Gyro-Jerk in the Z Direction     
 
 "TimeBodyAccelerationMagnitude.Mean"                            
@@ -119,4 +119,3 @@ activity_type 	: the type of activity being performed
 "FrequencyuencyBodyGyroJerkMagnitude.Mean"                      
 "FrequencyuencyBodyGyroJerkMagnitude.Standard Deviation"        
 "FrequencyuencyBodyGyroJerkMagnitude.MeanFrequency"    
-</p>
