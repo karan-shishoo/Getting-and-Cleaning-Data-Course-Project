@@ -4,11 +4,11 @@ This codebook outlines the various variables that are present in the tidydata.tx
 
 ## Identifiers and Descriptions
 
-subject_Id     		: the subject id to differntiate between subjects
-activity_type 	  : the type of activity being performed
+subject_Id 		: the subject id to differntiate between subjects
+activity_type 	: the type of activity being performed
 
 ## Variables and descriptions
-
+<p>
 "TimeBodyAcceleration.Mean.X"    						: mean of the Time-Body-Acceleration in the X Direction
 "TimeBodyAcceleration.Mean.Y"							: mean of the Time-Body-Acceleration in the Y Direction
 "TimeBodyAcceleration.Mean.Z"							: mean of the Time-Body-Acceleration in the Z Direction
@@ -88,3 +88,4 @@ activity_type 	  : the type of activity being performed
 "FrequencyuencyBodyGyroJerkMagnitude.Mean"                      
 "FrequencyuencyBodyGyroJerkMagnitude.Standard Deviation"        
 "FrequencyuencyBodyGyroJerkMagnitude.MeanFrequency"    
+</p>
